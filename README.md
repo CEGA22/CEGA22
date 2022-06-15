@@ -10,3 +10,5 @@ In the past 4years, I learned and gained experience in C# .Net Framework, Xamari
 - 🌱 I’m currently learning Web APIs and ASP.NET MVC
 - 💬 Ask me about anything or Programming stuff
 - 📫 How to reach me: Contact me | :iphone: +639357175153  :mailbox_with_mail: ceejaygabrang@gmail.com  LinkedIn: linkedin.com/in/gabrang-ceejay
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CEGA22&hide=contribs,prs)
