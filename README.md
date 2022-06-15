@@ -8,7 +8,5 @@ In the past 4years, I learned and gained experience in C# .Net Framework, Xamari
 
 - 🔭 I’m currently working on Covid-19 Mobile application built in Xamarin.forms
 - 🌱 I’m currently learning Web APIs and ASP.NET MVC
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything or Programming stuff
 - 📫 How to reach me: Contact me | :iphone: +639357175153  :mailbox_with_mail: ceejaygabrang@gmail.com  LinkedIn: linkedin.com/in/gabrang-ceejay
